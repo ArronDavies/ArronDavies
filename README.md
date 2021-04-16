@@ -1,4 +1,4 @@
-<a href="https://steamcommunity.com/profiles/76561198074099594/">
+#Add me on steam: <a href="https://steamcommunity.com/profiles/76561198074099594/">
 <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png"/>
 </a>
 
